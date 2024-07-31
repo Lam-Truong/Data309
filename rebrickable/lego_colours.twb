@@ -1,0 +1,2411 @@
+<?xml version='1.0' encoding='utf-8' ?>
+
+<!-- build 20242.24.0711.1636                               -->
+<workbook original-version='18.1' source-build='2024.2.1 (20242.24.0711.1636)' source-platform='win' version='18.1' xmlns:user='http://www.tableausoftware.com/xml/user'>
+  <document-format-change-manifest>
+    <_.fcp.AnimationOnByDefault.true...AnimationOnByDefault />
+    <_.fcp.MarkAnimation.true...MarkAnimation />
+    <_.fcp.ObjectModelEncapsulateLegacy.true...ObjectModelEncapsulateLegacy />
+    <_.fcp.ObjectModelTableType.true...ObjectModelTableType />
+    <_.fcp.SchemaViewerObjectModel.true...SchemaViewerObjectModel />
+    <SheetIdentifierTracking />
+    <SortTagCleanup />
+    <WindowsPersistSimpleIdentifiers />
+  </document-format-change-manifest>
+  <preferences>
+    <preference name='ui.encoding.shelf.height' value='24' />
+    <preference name='ui.shelf.height' value='26' />
+    <color-palette custom='true' name='Lego_colours' type='regular'>
+      <color>#b3d7d1</color>
+      <color>#05131d</color>
+      <color>#0055bf</color>
+      <color>#4b9f4a</color>
+      <color>#9fc3e9</color>
+      <color>#f8bb3d</color>
+      <color>#fff03a</color>
+      <color>#e4adc8</color>
+      <color>#ee5434</color>
+      <color>#583927</color>
+      <color>#645a4c</color>
+      <color>#1b2a34</color>
+      <color>#6c96bf</color>
+      <color>#bba53d</color>
+      <color>#3cb371</color>
+      <color>#aa4d8e</color>
+      <color>#e0e0e0</color>
+      <color>#fe78b0</color>
+      <color>#ffcf0b</color>
+      <color>#ae7a59</color>
+      <color>#ff698f</color>
+      <color>#dd982e</color>
+      <color>#078bc9</color>
+      <color>#0a3463</color>
+      <color>#2032b0</color>
+      <color>#6c6e68</color>
+      <color>#352100</color>
+      <color>#6d6e5c</color>
+      <color>#184632</color>
+      <color>#ad6140</color>
+      <color>#a95500</color>
+      <color>#c870a0</color>
+      <color>#3f3691</color>
+      <color>#720e0f</color>
+      <color>#958a73</color>
+      <color>#008f9b</color>
+      <color>#009ece</color>
+      <color>#5f27aa</color>
+      <color>#60ba76</color>
+      <color>#fff230</color>
+      <color>#3e95b6</color>
+      <color>#468a5f</color>
+      <color>#ff879c</color>
+      <color>#3fb69e</color>
+      <color>#fa9c1c</color>
+      <color>#b67b50</color>
+      <color>#78fc78</color>
+      <color>#ef9121</color>
+      <color>#ff8014</color>
+      <color>#b48455</color>
+      <color>#898788</color>
+      <color>#ffffff</color>
+      <color>#df6695</color>
+      <color>#84b68d</color>
+      <color>#68bcc5</color>
+      <color>#8d73b3</color>
+      <color>#c0f500</color>
+      <color>#f08f1c</color>
+      <color>#e4adc8</color>
+      <color>#a5a5cb</color>
+      <color>#d4d5c9</color>
+      <color>#bdc6ad</color>
+      <color>#d9d9d9</color>
+      <color>#237841</color>
+      <color>#b3d7d1</color>
+      <color>#1591cb</color>
+      <color>#354e5a</color>
+      <color>#5b98b3</color>
+      <color>#a7dccf</color>
+      <color>#0a3463</color>
+      <color>#6d6e5c</color>
+      <color>#184632</color>
+      <color>#b2b955</color>
+      <color>#631314</color>
+      <color>#627a62</color>
+      <color>#bb771b</color>
+      <color>#b4a774</color>
+      <color>#a3d1c0</color>
+      <color>#965336</color>
+      <color>#cdc298</color>
+      <color>#f9f1c7</color>
+      <color>#f5fab7</color>
+      <color>#7396c8</color>
+      <color>#c01111</color>
+      <color>#0d4763</color>
+      <color>#5e5e5e</color>
+      <color>#879867</color>
+      <color>#5f7d8c</color>
+      <color>#9b9a5a</color>
+      <color>#d06262</color>
+      <color>#6e8aa6</color>
+      <color>#a0bcac</color>
+      <color>#e4cd9e</color>
+      <color>#616161</color>
+      <color>#e1d5ed</color>
+      <color>#adc3c0</color>
+      <color>#b4d2e3</color>
+      <color>#a0a5a9</color>
+      <color>#7c503a</color>
+      <color>#9ba19d</color>
+      <color>#c2dab8</color>
+      <color>#9195ca</color>
+      <color>#d9e4a7</color>
+      <color>#f6d7b3</color>
+      <color>#f9ba61</color>
+      <color>#fecccf</color>
+      <color>#cd6298</color>
+      <color>#febabd</color>
+      <color>#f3c988</color>
+      <color>#55a5af</color>
+      <color>#c9cae2</color>
+      <color>#fbe696</color>
+      <color>#bbe90b</color>
+      <color>#3592c3</color>
+      <color>#923978</color>
+      <color>#36aebf</color>
+      <color>#5a93db</color>
+      <color>#6874ca</color>
+      <color>#755945</color>
+      <color>#f785b1</color>
+      <color>#73dca1</color>
+      <color>#ac78ba</color>
+      <color>#c7d23c</color>
+      <color>#aa7d55</color>
+      <color>#ffa70b</color>
+      <color>#9391e4</color>
+      <color>#a5adb4</color>
+      <color>#764d3b</color>
+      <color>#dbac34</color>
+      <color>#899b5f</color>
+      <color>#a5a9b4</color>
+      <color>#ffffff</color>
+      <color>#27867e</color>
+      <color>#4d4c52</color>
+      <color>#907450</color>
+      <color>#dec69c</color>
+      <color>#ffffff</color>
+      <color>#bdc618</color>
+      <color>#afb5c7</color>
+      <color>#9c9c9c</color>
+      <color>#f7ad63</color>
+      <color>#ffe371</color>
+      <color>#61afff</color>
+      <color>#fed557</color>
+      <color>#7c9051</color>
+      <color>#f47b30</color>
+      <color>#68aece</color>
+      <color>#7db538</color>
+      <color>#f785b1</color>
+      <color>#f45c40</color>
+      <color>#b52c20</color>
+      <color>#467083</color>
+      <color>#5c5030</color>
+      <color>#330000</color>
+      <color>#6b5a5a</color>
+      <color>#bd7d85</color>
+      <color>#f4f4f4</color>
+      <color>#d09168</color>
+      <color>#9b9a5a</color>
+      <color>#84b68d</color>
+      <color>#583927</color>
+      <color>#fcfcfc</color>
+      <color>#0020a0</color>
+      <color>#ce1d9b</color>
+      <color>#68bcc5</color>
+      <color>#8320b7</color>
+      <color>#f5cd2f</color>
+      <color>#fe8a18</color>
+      <color>#5ac4da</color>
+      <color>#0a1327</color>
+      <color>#0059a3</color>
+      <color>#57392c</color>
+      <color>#b46a00</color>
+      <color>#575857</color>
+      <color>#aa7f2e</color>
+      <color>#008e3c</color>
+      <color>#dcbc81</color>
+      <color>#9ca3a8</color>
+      <color>#6a7944</color>
+      <color>#d60026</color>
+      <color>#7988a1</color>
+      <color>#3e3c39</color>
+      <color>#abadac</color>
+      <color>#f2f3f2</color>
+      <color>#fc97ac</color>
+      <color>#81007b</color>
+      <color>#c91a09</color>
+      <color>#582a12</color>
+      <color>#ac8247</color>
+      <color>#8e5597</color>
+      <color>#ca4c0b</color>
+      <color>#4c61db</color>
+      <color>#b31004</color>
+      <color>#872b17</color>
+      <color>#f2705e</color>
+      <color>#6074a1</color>
+      <color>#a0bcac</color>
+      <color>#845e84</color>
+      <color>#d67572</color>
+      <color>#7dbfdd</color>
+      <color>#05131d</color>
+      <color>#05131d</color>
+      <color>#05131d</color>
+      <color>#6c6e68</color>
+      <color>#e4cd9e</color>
+      <color>#635f52</color>
+      <color>#d9e4a7</color>
+      <color>#635f52</color>
+      <color>#fcfcfc</color>
+      <color>#0020a0</color>
+      <color>#df6695</color>
+      <color>#fbe890</color>
+      <color>#fcb76d</color>
+      <color>#84b68d</color>
+      <color>#aeefec</color>
+      <color>#c9e788</color>
+      <color>#94e5ab</color>
+      <color>#96709f</color>
+      <color>#b4d4f7</color>
+      <color>#cfe2f7</color>
+      <color>#8d73b3</color>
+      <color>#f8f184</color>
+      <color>#ff800d</color>
+      <color>#ff0040</color>
+      <color>#dab000</color>
+      <color>#f08f1c</color>
+      <color>#e4adc8</color>
+      <color>#a5a5cb</color>
+      <color>#c91a09</color>
+      <color>#c1dff0</color>
+      <color>#f5cd2f</color>
+      <color>#945148</color>
+      <color>#ab673a</color>
+      <color>#737271</color>
+      <color>#e6e3e0</color>
+      <color>#e6e3da</color>
+      <color>#f3cf9b</color>
+      <color>#ebd800</color>
+      <color>#039cbd</color>
+      <color>#1e601e</color>
+      <color>#ca1f08</color>
+      <color>#f3c305</color>
+      <color>#4354a3</color>
+      <color>#cca373</color>
+      <color>#ffcb78</color>
+      <color>#ffffff</color>
+      <color>#f2cd37</color>
+      <color>#dfeea5</color>
+      <color>#05131d</color>
+      <color>#0033b2</color>
+    </color-palette>
+  </preferences>
+  <_.fcp.AnimationOnByDefault.false...style>
+    <_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule element='animation'>
+      <_.fcp.AnimationOnByDefault.false...format attr='animation-on' value='ao-on' />
+    </_.fcp.AnimationOnByDefault.false..._.fcp.MarkAnimation.true...style-rule>
+  </_.fcp.AnimationOnByDefault.false...style>
+  <datasources>
+    <datasource caption='colors_over_years' inline='true' name='federated.0jkmpin0p1vt3213j12h402n7u9j' version='18.1'>
+      <connection class='federated'>
+        <named-connections>
+          <named-connection caption='colors_over_years' name='textscan.0bnsrzp0n0vndz17ypb6m0ek49q0'>
+            <connection class='textscan' directory='D:/study/data309/rebrickable' filename='colors_over_years.csv' password='' server='' />
+          </named-connection>
+        </named-connections>
+        <_.fcp.ObjectModelEncapsulateLegacy.false...relation connection='textscan.0bnsrzp0n0vndz17ypb6m0ek49q0' name='colors_over_years.csv' table='[colors_over_years#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='integer' name='year' ordinal='0' />
+            <column datatype='string' name='color_name' ordinal='1' />
+            <column datatype='string' name='rgb' ordinal='2' />
+            <column datatype='integer' name='quantity' ordinal='3' />
+            <column datatype='string' name='color_info' ordinal='4' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.false...relation>
+        <_.fcp.ObjectModelEncapsulateLegacy.true...relation connection='textscan.0bnsrzp0n0vndz17ypb6m0ek49q0' name='colors_over_years.csv' table='[colors_over_years#csv]' type='table'>
+          <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+            <column datatype='integer' name='year' ordinal='0' />
+            <column datatype='string' name='color_name' ordinal='1' />
+            <column datatype='string' name='rgb' ordinal='2' />
+            <column datatype='integer' name='quantity' ordinal='3' />
+            <column datatype='string' name='color_info' ordinal='4' />
+          </columns>
+        </_.fcp.ObjectModelEncapsulateLegacy.true...relation>
+        <metadata-records>
+          <metadata-record class='capability'>
+            <remote-name />
+            <remote-type>0</remote-type>
+            <parent-name>[colors_over_years.csv]</parent-name>
+            <remote-alias />
+            <aggregation>Count</aggregation>
+            <contains-null>true</contains-null>
+            <attributes>
+              <attribute datatype='string' name='character-set'>&quot;UTF-8&quot;</attribute>
+              <attribute datatype='string' name='collation'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='field-delimiter'>&quot;,&quot;</attribute>
+              <attribute datatype='string' name='header-row'>&quot;true&quot;</attribute>
+              <attribute datatype='string' name='locale'>&quot;en_US&quot;</attribute>
+              <attribute datatype='string' name='single-char'>&quot;&quot;</attribute>
+            </attributes>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>year</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[year]</local-name>
+            <parent-name>[colors_over_years.csv]</parent-name>
+            <remote-alias>year</remote-alias>
+            <ordinal>0</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[colors_over_years.csv_872BE662CD494238896C6DBA65F8B014]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>color_name</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[color_name]</local-name>
+            <parent-name>[colors_over_years.csv]</parent-name>
+            <remote-alias>color_name</remote-alias>
+            <ordinal>1</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[colors_over_years.csv_872BE662CD494238896C6DBA65F8B014]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>rgb</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[rgb]</local-name>
+            <parent-name>[colors_over_years.csv]</parent-name>
+            <remote-alias>rgb</remote-alias>
+            <ordinal>2</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[colors_over_years.csv_872BE662CD494238896C6DBA65F8B014]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>quantity</remote-name>
+            <remote-type>20</remote-type>
+            <local-name>[quantity]</local-name>
+            <parent-name>[colors_over_years.csv]</parent-name>
+            <remote-alias>quantity</remote-alias>
+            <ordinal>3</ordinal>
+            <local-type>integer</local-type>
+            <aggregation>Sum</aggregation>
+            <contains-null>true</contains-null>
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[colors_over_years.csv_872BE662CD494238896C6DBA65F8B014]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+          <metadata-record class='column'>
+            <remote-name>color_info</remote-name>
+            <remote-type>129</remote-type>
+            <local-name>[color_info]</local-name>
+            <parent-name>[colors_over_years.csv]</parent-name>
+            <remote-alias>color_info</remote-alias>
+            <ordinal>4</ordinal>
+            <local-type>string</local-type>
+            <aggregation>Count</aggregation>
+            <scale>1</scale>
+            <width>1073741823</width>
+            <contains-null>true</contains-null>
+            <collation flag='0' name='LEN_RUS' />
+            <_.fcp.ObjectModelEncapsulateLegacy.true...object-id>[colors_over_years.csv_872BE662CD494238896C6DBA65F8B014]</_.fcp.ObjectModelEncapsulateLegacy.true...object-id>
+          </metadata-record>
+        </metadata-records>
+      </connection>
+      <aliases enabled='yes' />
+      <column caption='Baseline Offset' datatype='real' name='[Calculation_751819708372803584]' role='measure' type='quantitative'>
+        <calculation class='tableau' formula='WINDOW_SUM(SUM([quantity])) / 2'>
+          <table-calc ordering-type='Rows' />
+        </calculation>
+      </column>
+      <_.fcp.ObjectModelTableType.true...column caption='colors_over_years.csv' datatype='table' name='[__tableau_internal_object_id__].[colors_over_years.csv_872BE662CD494238896C6DBA65F8B014]' role='measure' type='quantitative' />
+      <column datatype='string' name='[color_info]' role='dimension' type='nominal' />
+      <column caption='Color Name' datatype='string' name='[color_name]' role='dimension' type='nominal' />
+      <column caption='Quantity' datatype='integer' name='[quantity]' role='measure' type='quantitative' />
+      <column caption='Year' datatype='integer' name='[year]' role='dimension' type='quantitative' />
+      <column-instance column='[color_info]' derivation='None' name='[none:color_info:nk]' pivot='key' type='nominal' />
+      <column-instance column='[color_name]' derivation='None' name='[none:color_name:nk]' pivot='key' type='nominal' />
+      <layout _.fcp.SchemaViewerObjectModel.false...dim-percentage='0.5' _.fcp.SchemaViewerObjectModel.false...measure-percentage='0.4' dim-ordering='alphabetic' measure-ordering='alphabetic' show-structure='true' />
+      <style>
+        <style-rule element='mark'>
+          <encoding attr='color' field='[none:color_name:nk]' type='palette'>
+            <map to='#499894'>
+              <bucket>&quot;Bright Light Yellow&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;Dark Brown&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;Fabuland Lime&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;HO Blue-gray&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;HO Metallic Green&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;Light Purple&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;Metal&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;Modulex Pastel Blue&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;Opal Trans-Yellow&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;Red&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;Trans-Bright Green&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;Trans-Pink&quot;</bucket>
+            </map>
+            <map to='#499894'>
+              <bucket>&quot;Yellow&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;[No Color/Any Color]&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Clikits Yellow&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Duplo Light Green&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Glitter Trans-Pink&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;HO Light Brown&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Light Brown&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Medium Brown&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Modulex Light Bluish Gray&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Olive Green&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Pearl Lime&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Sand Red&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Trans-Light Royal Blue&quot;</bucket>
+            </map>
+            <map to='#4e79a7'>
+              <bucket>&quot;Vintage Blue&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Blue&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Dark Azure&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Duplo Pink&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Glow in Dark White&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;HO Medium Blue&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Light Lime&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Medium Lime&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Modulex Medium Blue&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Opal Trans-Dark Blue&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Pearl Very Light Gray&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Speckle Black-Silver&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Trans-Neon Orange&quot;</bucket>
+            </map>
+            <map to='#59a14f'>
+              <bucket>&quot;Violet&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Chrome Antique Brass&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Dark Orange&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Flat Silver&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;HO Dark Gray&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;HO Sand Blue&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Light Violet&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Metallic Silver&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Modulex Red&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Pearl Blue&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Reddish Orange&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Trans-Dark Pink&quot;</bucket>
+            </map>
+            <map to='#79706e'>
+              <bucket>&quot;Trans-Yellow&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;Bright Pink&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;Dark Gray&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;Fabuland Orange&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;HO Cyan&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;HO Metallic Sand Blue&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;Light Salmon&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;Metallic Copper&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;Modulex Pastel Green&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;Orange&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;Reddish Brown&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;Trans-Brown&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;Trans-Purple&quot;</bucket>
+            </map>
+            <map to='#86bcb6'>
+              <bucket>&quot;Yellowish Green&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Bright Green&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Dark Blue&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Duplo Turquoise&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Green&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;HO Medium Red&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Light Nougat&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Medium Nougat&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Modulex Ochre Yellow&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Opal Trans-Dark Pink&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Pearl White&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Speckle DBGray-Silver&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Trans-Neon Red&quot;</bucket>
+            </map>
+            <map to='#8cd17d'>
+              <bucket>&quot;Warm Tan&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;Chrome Silver&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;Duplo Blue&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;Glitter Trans-Neon Green&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;HO Gold&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;Light Blue&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;Medium Blue&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;Modulex Clear&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;Modulex White&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;Pearl Light Gold&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;Sand Green&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;Trans-Light Green&quot;</bucket>
+            </map>
+            <map to='#9d7660'>
+              <bucket>&quot;Very Light Orange&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;[Unknown]&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Copper&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Duplo Lime&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Glitter Trans-Purple&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;HO Light Gold&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Light Gray&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Medium Dark Pink&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Modulex Light Gray&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Opal Trans-Bright Green&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Pearl Red&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Sky Blue&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Trans-Medium Blue&quot;</bucket>
+            </map>
+            <map to='#a0cbe8'>
+              <bucket>&quot;Vintage Green&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;Chrome Green&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;Dark Tan&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;Glitter Trans-Light Blue&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;HO Dark Sand Green&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;Lavender&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;Magenta&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;Modulex Brown&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;Modulex Tile Gray&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;Pearl Gold&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;Salmon&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;Trans-Light Blue&quot;</bucket>
+            </map>
+            <map to='#b07aa1'>
+              <bucket>&quot;Very Light Bluish Gray&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;Bright Light Blue&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;Dark Blue-Violet&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;Earth Orange&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;HO Aqua&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;HO Metallic Blue&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;Light Orange&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;Medium Orange&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;Modulex Olive Green&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;Opal Trans-Light Blue&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;Pink&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;Tan&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;Trans-Neon Yellow&quot;</bucket>
+            </map>
+            <map to='#b6992d'>
+              <bucket>&quot;Warm Yellowish Orange&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;Chrome Black&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;Dark Pink&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;Glitter Trans-Clear&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;HO Dark Green&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;HO Sand Green&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;Light Yellow&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;Milky White&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;Modulex Teal Blue&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;Pearl Brown&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;Royal Blue&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;Trans-Fire Yellow&quot;</bucket>
+            </map>
+            <map to='#bab0ac'>
+              <bucket>&quot;Two-tone Copper&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;Chrome Blue&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;Dark Purple&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;Glitter Trans-Dark Pink&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;HO Dark Lime&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;HO Tan&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;Lime&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;Modulex Aqua Green&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;Modulex Terracotta&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;Pearl Copper&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;Rust&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;Trans-Flame Yellowish Orange&quot;</bucket>
+            </map>
+            <map to='#d37295'>
+              <bucket>&quot;Two-tone Gold&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;Chrome Pink&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;Dark Turquoise&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;Glitter Trans-Medium Purple&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;HO Earth Orange&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;Light Aqua&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;Medium Azure&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;Modulex Buff&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;Modulex Violet&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;Pearl Green&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;Sand Blue&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;Trans-Light Bright Green&quot;</bucket>
+            </map>
+            <map to='#d4a6c8'>
+              <bucket>&quot;Very Light Gray&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;Clikits Pink&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;Duplo Dark Purple&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;Glitter Trans-Orange&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;HO Light Aqua&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;Light Bluish Gray&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;Medium Bluish Violet&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;Modulex Lemon&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;Nougat&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;Pearl Light Gray&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;Sand Purple&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;Trans-Light Purple&quot;</bucket>
+            </map>
+            <map to='#d7b5a6'>
+              <bucket>&quot;Vibrant Yellow&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Bright Reddish Orange&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Dark Green&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Fabuland Red&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;HO Dark Aqua&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;HO Olive Green&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Light Tan&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Metallic Gold&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Modulex Pink&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Pastel Blue&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Reddish Gold&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Trans-Clear&quot;</bucket>
+            </map>
+            <map to='#e15759'>
+              <bucket>&quot;Trans-Red&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;Bright Light Orange&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;Dark Bluish Gray&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;Fabuland Brown&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;HO Azure&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;HO Metallic Dark Gray&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;Light Pink&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;Medium Violet&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;Modulex Orange&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;Opal Trans-Purple&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;Purple&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;Trans-Black&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;Trans-Orange&quot;</bucket>
+            </map>
+            <map to='#f1ce63'>
+              <bucket>&quot;White&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Aqua&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Coral&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Duplo Medium Blue&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Glow In Dark Opaque&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;HO Light Tan&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Light Green&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Medium Green&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Modulex Light Orange&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Opal Trans-Brown&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Pearl Sand Blue&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Speckle Black-Copper&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Trans-Medium Purple&quot;</bucket>
+            </map>
+            <map to='#f28e2b'>
+              <bucket>&quot;Vintage Red&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;Chrome Gold&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;Dark Red&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;Glitter Trans-Green&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;HO Dark Red&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;HO Titanium&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;Maersk Blue&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;Modulex Black&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;Modulex Tile Brown&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;Pearl Dark Gray&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;Rust Orange&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;Trans-Green&quot;</bucket>
+            </map>
+            <map to='#fabfd2'>
+              <bucket>&quot;Two-tone Silver&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;Brown&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;Dark Nougat&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;Flat Dark Gold&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;HO Dark Blue&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;HO Rose&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;Light Turquoise&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;Metallic Green&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;Modulex Pink Red&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;Pearl Black&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;Reddish Lilac&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;Trans-Dark Blue&quot;</bucket>
+            </map>
+            <map to='#ff9d9a'>
+              <bucket>&quot;Trans-Very Lt Blue&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Black&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Curry&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Duplo Medium Green&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Glow In Dark Trans&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;HO Light Yellow&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Light Lilac&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Medium Lavender&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Modulex Light Yellow&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Opal Trans-Clear&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Pearl Titanium&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Speckle Black-Gold&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Trans-Neon Green&quot;</bucket>
+            </map>
+            <map to='#ffbe7d'>
+              <bucket>&quot;Vintage Yellow&quot;</bucket>
+            </map>
+          </encoding>
+          <encoding attr='color' field='[none:color_info:nk]' palette='Lego_colours' type='palette'>
+            <map to='#0020a0'>
+              <bucket>&quot;Opal Trans-Dark Blue (0020A0)&quot;</bucket>
+            </map>
+            <map to='#0020a0'>
+              <bucket>&quot;Trans-Dark Blue (0020A0)&quot;</bucket>
+            </map>
+            <map to='#0033b2'>
+              <bucket>&quot;[Unknown] (0033B2)&quot;</bucket>
+            </map>
+            <map to='#0055bf'>
+              <bucket>&quot;Blue (0055BF)&quot;</bucket>
+            </map>
+            <map to='#0059a3'>
+              <bucket>&quot;Pearl Blue (0059A3)&quot;</bucket>
+            </map>
+            <map to='#008e3c'>
+              <bucket>&quot;Pearl Green (008E3C)&quot;</bucket>
+            </map>
+            <map to='#008f9b'>
+              <bucket>&quot;Dark Turquoise (008F9B)&quot;</bucket>
+            </map>
+            <map to='#009ece'>
+              <bucket>&quot;Duplo Blue (009ECE)&quot;</bucket>
+            </map>
+            <map to='#039cbd'>
+              <bucket>&quot;Vintage Blue (039CBD)&quot;</bucket>
+            </map>
+            <map to='#05131d'>
+              <bucket>&quot;[No Color/Any Color] (05131D)&quot;</bucket>
+            </map>
+            <map to='#05131d'>
+              <bucket>&quot;Black (05131D)&quot;</bucket>
+            </map>
+            <map to='#05131d'>
+              <bucket>&quot;Speckle Black-Copper (05131D)&quot;</bucket>
+            </map>
+            <map to='#05131d'>
+              <bucket>&quot;Speckle Black-Gold (05131D)&quot;</bucket>
+            </map>
+            <map to='#05131d'>
+              <bucket>&quot;Speckle Black-Silver (05131D)&quot;</bucket>
+            </map>
+            <map to='#078bc9'>
+              <bucket>&quot;Dark Azure (078BC9)&quot;</bucket>
+            </map>
+            <map to='#0a1327'>
+              <bucket>&quot;Pearl Black (0A1327)&quot;</bucket>
+            </map>
+            <map to='#0a3463'>
+              <bucket>&quot;Dark Blue (0A3463)&quot;</bucket>
+            </map>
+            <map to='#0a3463'>
+              <bucket>&quot;HO Dark Blue (0A3463)&quot;</bucket>
+            </map>
+            <map to='#0d4763'>
+              <bucket>&quot;HO Metallic Blue (0d4763)&quot;</bucket>
+            </map>
+            <map to='#1591cb'>
+              <bucket>&quot;HO Azure (1591cb)&quot;</bucket>
+            </map>
+            <map to='#184632'>
+              <bucket>&quot;Dark Green (184632)&quot;</bucket>
+            </map>
+            <map to='#184632'>
+              <bucket>&quot;HO Dark Green (184632)&quot;</bucket>
+            </map>
+            <map to='#1b2a34'>
+              <bucket>&quot;Chrome Black (1B2A34)&quot;</bucket>
+            </map>
+            <map to='#1e601e'>
+              <bucket>&quot;Vintage Green (1E601E)&quot;</bucket>
+            </map>
+            <map to='#2032b0'>
+              <bucket>&quot;Dark Blue-Violet (2032B0)&quot;</bucket>
+            </map>
+            <map to='#237841'>
+              <bucket>&quot;Green (237841)&quot;</bucket>
+            </map>
+            <map to='#27867e'>
+              <bucket>&quot;Modulex Aqua Green (27867E)&quot;</bucket>
+            </map>
+            <map to='#330000'>
+              <bucket>&quot;Modulex Tile Brown (330000)&quot;</bucket>
+            </map>
+            <map to='#352100'>
+              <bucket>&quot;Dark Brown (352100)&quot;</bucket>
+            </map>
+            <map to='#354e5a'>
+              <bucket>&quot;HO Blue-gray (354e5a)&quot;</bucket>
+            </map>
+            <map to='#3592c3'>
+              <bucket>&quot;Maersk Blue (3592C3)&quot;</bucket>
+            </map>
+            <map to='#36aebf'>
+              <bucket>&quot;Medium Azure (36AEBF)&quot;</bucket>
+            </map>
+            <map to='#3cb371'>
+              <bucket>&quot;Chrome Green (3CB371)&quot;</bucket>
+            </map>
+            <map to='#3e3c39'>
+              <bucket>&quot;Pearl Titanium (3E3C39)&quot;</bucket>
+            </map>
+            <map to='#3e95b6'>
+              <bucket>&quot;Duplo Medium Blue (3E95B6)&quot;</bucket>
+            </map>
+            <map to='#3f3691'>
+              <bucket>&quot;Dark Purple (3F3691)&quot;</bucket>
+            </map>
+            <map to='#3fb69e'>
+              <bucket>&quot;Duplo Turquoise (3FB69E)&quot;</bucket>
+            </map>
+            <map to='#4354a3'>
+              <bucket>&quot;Violet (4354A3)&quot;</bucket>
+            </map>
+            <map to='#467083'>
+              <bucket>&quot;Modulex Teal Blue (467083)&quot;</bucket>
+            </map>
+            <map to='#468a5f'>
+              <bucket>&quot;Duplo Medium Green (468A5F)&quot;</bucket>
+            </map>
+            <map to='#4b9f4a'>
+              <bucket>&quot;Bright Green (4B9F4A)&quot;</bucket>
+            </map>
+            <map to='#4c61db'>
+              <bucket>&quot;Royal Blue (4C61DB)&quot;</bucket>
+            </map>
+            <map to='#4d4c52'>
+              <bucket>&quot;Modulex Black (4D4C52)&quot;</bucket>
+            </map>
+            <map to='#55a5af'>
+              <bucket>&quot;Light Turquoise (55A5AF)&quot;</bucket>
+            </map>
+            <map to='#57392c'>
+              <bucket>&quot;Pearl Brown (57392C)&quot;</bucket>
+            </map>
+            <map to='#575857'>
+              <bucket>&quot;Pearl Dark Gray (575857)&quot;</bucket>
+            </map>
+            <map to='#582a12'>
+              <bucket>&quot;Reddish Brown (582A12)&quot;</bucket>
+            </map>
+            <map to='#583927'>
+              <bucket>&quot;Brown (583927)&quot;</bucket>
+            </map>
+            <map to='#583927'>
+              <bucket>&quot;Opal Trans-Brown (583927)&quot;</bucket>
+            </map>
+            <map to='#5a93db'>
+              <bucket>&quot;Medium Blue (5A93DB)&quot;</bucket>
+            </map>
+            <map to='#5ac4da'>
+              <bucket>&quot;Pastel Blue (5AC4DA)&quot;</bucket>
+            </map>
+            <map to='#5b98b3'>
+              <bucket>&quot;HO Cyan (5b98b3)&quot;</bucket>
+            </map>
+            <map to='#5c5030'>
+              <bucket>&quot;Modulex Terracotta (5C5030)&quot;</bucket>
+            </map>
+            <map to='#5e5e5e'>
+              <bucket>&quot;HO Metallic Dark Gray (5e5e5e)&quot;</bucket>
+            </map>
+            <map to='#5f27aa'>
+              <bucket>&quot;Duplo Dark Purple (5F27AA)&quot;</bucket>
+            </map>
+            <map to='#5f7d8c'>
+              <bucket>&quot;HO Metallic Sand Blue (5f7d8c)&quot;</bucket>
+            </map>
+            <map to='#6074a1'>
+              <bucket>&quot;Sand Blue (6074A1)&quot;</bucket>
+            </map>
+            <map to='#60ba76'>
+              <bucket>&quot;Duplo Light Green (60BA76)&quot;</bucket>
+            </map>
+            <map to='#616161'>
+              <bucket>&quot;HO Titanium (616161)&quot;</bucket>
+            </map>
+            <map to='#61afff'>
+              <bucket>&quot;Modulex Medium Blue (61AFFF)&quot;</bucket>
+            </map>
+            <map to='#627a62'>
+              <bucket>&quot;HO Dark Sand Green (627a62)&quot;</bucket>
+            </map>
+            <map to='#631314'>
+              <bucket>&quot;HO Dark Red (631314)&quot;</bucket>
+            </map>
+            <map to='#635f52'>
+              <bucket>&quot;Trans-Black (635F52)&quot;</bucket>
+            </map>
+            <map to='#635f52'>
+              <bucket>&quot;Trans-Brown (635F52)&quot;</bucket>
+            </map>
+            <map to='#645a4c'>
+              <bucket>&quot;Chrome Antique Brass (645A4C)&quot;</bucket>
+            </map>
+            <map to='#6874ca'>
+              <bucket>&quot;Medium Bluish Violet (6874CA)&quot;</bucket>
+            </map>
+            <map to='#68aece'>
+              <bucket>&quot;Modulex Pastel Blue (68AECE)&quot;</bucket>
+            </map>
+            <map to='#68bcc5'>
+              <bucket>&quot;Glitter Trans-Light Blue (68BCC5)&quot;</bucket>
+            </map>
+            <map to='#68bcc5'>
+              <bucket>&quot;Opal Trans-Light Blue (68BCC5)&quot;</bucket>
+            </map>
+            <map to='#6a7944'>
+              <bucket>&quot;Pearl Lime (6A7944)&quot;</bucket>
+            </map>
+            <map to='#6b5a5a'>
+              <bucket>&quot;Modulex Tile Gray (6B5A5A)&quot;</bucket>
+            </map>
+            <map to='#6c6e68'>
+              <bucket>&quot;Dark Bluish Gray (6C6E68)&quot;</bucket>
+            </map>
+            <map to='#6c6e68'>
+              <bucket>&quot;Speckle DBGray-Silver (6C6E68)&quot;</bucket>
+            </map>
+            <map to='#6c96bf'>
+              <bucket>&quot;Chrome Blue (6C96BF)&quot;</bucket>
+            </map>
+            <map to='#6d6e5c'>
+              <bucket>&quot;Dark Gray (6D6E5C)&quot;</bucket>
+            </map>
+            <map to='#6d6e5c'>
+              <bucket>&quot;HO Dark Gray (6D6E5C)&quot;</bucket>
+            </map>
+            <map to='#6e8aa6'>
+              <bucket>&quot;HO Sand Blue (6e8aa6)&quot;</bucket>
+            </map>
+            <map to='#720e0f'>
+              <bucket>&quot;Dark Red (720E0F)&quot;</bucket>
+            </map>
+            <map to='#737271'>
+              <bucket>&quot;Two-tone Silver (737271)&quot;</bucket>
+            </map>
+            <map to='#7396c8'>
+              <bucket>&quot;HO Medium Blue (7396c8)&quot;</bucket>
+            </map>
+            <map to='#73dca1'>
+              <bucket>&quot;Medium Green (73DCA1)&quot;</bucket>
+            </map>
+            <map to='#755945'>
+              <bucket>&quot;Medium Brown (755945)&quot;</bucket>
+            </map>
+            <map to='#764d3b'>
+              <bucket>&quot;Metallic Copper (764D3B)&quot;</bucket>
+            </map>
+            <map to='#78fc78'>
+              <bucket>&quot;Fabuland Lime (78FC78)&quot;</bucket>
+            </map>
+            <map to='#7988a1'>
+              <bucket>&quot;Pearl Sand Blue (7988A1)&quot;</bucket>
+            </map>
+            <map to='#7c503a'>
+              <bucket>&quot;Light Brown (7C503A)&quot;</bucket>
+            </map>
+            <map to='#7c9051'>
+              <bucket>&quot;Modulex Olive Green (7C9051)&quot;</bucket>
+            </map>
+            <map to='#7db538'>
+              <bucket>&quot;Modulex Pastel Green (7DB538)&quot;</bucket>
+            </map>
+            <map to='#7dbfdd'>
+              <bucket>&quot;Sky Blue (7DBFDD)&quot;</bucket>
+            </map>
+            <map to='#81007b'>
+              <bucket>&quot;Purple (81007B)&quot;</bucket>
+            </map>
+            <map to='#8320b7'>
+              <bucket>&quot;Opal Trans-Purple (8320B7)&quot;</bucket>
+            </map>
+            <map to='#845e84'>
+              <bucket>&quot;Sand Purple (845E84)&quot;</bucket>
+            </map>
+            <map to='#84b68d'>
+              <bucket>&quot;Glitter Trans-Green (84B68D)&quot;</bucket>
+            </map>
+            <map to='#84b68d'>
+              <bucket>&quot;Opal Trans-Bright Green (84B68D)&quot;</bucket>
+            </map>
+            <map to='#84b68d'>
+              <bucket>&quot;Trans-Green (84B68D)&quot;</bucket>
+            </map>
+            <map to='#872b17'>
+              <bucket>&quot;Rust Orange (872B17)&quot;</bucket>
+            </map>
+            <map to='#879867'>
+              <bucket>&quot;HO Metallic Green (879867)&quot;</bucket>
+            </map>
+            <map to='#898788'>
+              <bucket>&quot;Flat Silver (898788)&quot;</bucket>
+            </map>
+            <map to='#899b5f'>
+              <bucket>&quot;Metallic Green (899B5F)&quot;</bucket>
+            </map>
+            <map to='#8d73b3'>
+              <bucket>&quot;Glitter Trans-Medium Purple (8D73B3)&quot;</bucket>
+            </map>
+            <map to='#8d73b3'>
+              <bucket>&quot;Trans-Medium Purple (8D73B3)&quot;</bucket>
+            </map>
+            <map to='#8e5597'>
+              <bucket>&quot;Reddish Lilac (8E5597)&quot;</bucket>
+            </map>
+            <map to='#907450'>
+              <bucket>&quot;Modulex Brown (907450)&quot;</bucket>
+            </map>
+            <map to='#9195ca'>
+              <bucket>&quot;Light Lilac (9195CA)&quot;</bucket>
+            </map>
+            <map to='#923978'>
+              <bucket>&quot;Magenta (923978)&quot;</bucket>
+            </map>
+            <map to='#9391e4'>
+              <bucket>&quot;Medium Violet (9391E4)&quot;</bucket>
+            </map>
+            <map to='#945148'>
+              <bucket>&quot;Two-tone Copper (945148)&quot;</bucket>
+            </map>
+            <map to='#94e5ab'>
+              <bucket>&quot;Trans-Light Green (94E5AB)&quot;</bucket>
+            </map>
+            <map to='#958a73'>
+              <bucket>&quot;Dark Tan (958A73)&quot;</bucket>
+            </map>
+            <map to='#965336'>
+              <bucket>&quot;HO Light Brown (965336)&quot;</bucket>
+            </map>
+            <map to='#96709f'>
+              <bucket>&quot;Trans-Light Purple (96709F)&quot;</bucket>
+            </map>
+            <map to='#9b9a5a'>
+              <bucket>&quot;HO Olive Green (9B9A5A)&quot;</bucket>
+            </map>
+            <map to='#9b9a5a'>
+              <bucket>&quot;Olive Green (9B9A5A)&quot;</bucket>
+            </map>
+            <map to='#9ba19d'>
+              <bucket>&quot;Light Gray (9BA19D)&quot;</bucket>
+            </map>
+            <map to='#9c9c9c'>
+              <bucket>&quot;Modulex Light Gray (9C9C9C)&quot;</bucket>
+            </map>
+            <map to='#9ca3a8'>
+              <bucket>&quot;Pearl Light Gray (9CA3A8)&quot;</bucket>
+            </map>
+            <map to='#9fc3e9'>
+              <bucket>&quot;Bright Light Blue (9FC3E9)&quot;</bucket>
+            </map>
+            <map to='#a0a5a9'>
+              <bucket>&quot;Light Bluish Gray (A0A5A9)&quot;</bucket>
+            </map>
+            <map to='#a0bcac'>
+              <bucket>&quot;HO Sand Green (A0BCAC)&quot;</bucket>
+            </map>
+            <map to='#a0bcac'>
+              <bucket>&quot;Sand Green (A0BCAC)&quot;</bucket>
+            </map>
+            <map to='#a3d1c0'>
+              <bucket>&quot;HO Light Aqua (a3d1c0)&quot;</bucket>
+            </map>
+            <map to='#a5a5cb'>
+              <bucket>&quot;Glitter Trans-Purple (A5A5CB)&quot;</bucket>
+            </map>
+            <map to='#a5a5cb'>
+              <bucket>&quot;Trans-Purple (A5A5CB)&quot;</bucket>
+            </map>
+            <map to='#a5a9b4'>
+              <bucket>&quot;Metallic Silver (A5A9B4)&quot;</bucket>
+            </map>
+            <map to='#a5adb4'>
+              <bucket>&quot;Metal (A5ADB4)&quot;</bucket>
+            </map>
+            <map to='#a7dccf'>
+              <bucket>&quot;HO Dark Aqua (a7dccf)&quot;</bucket>
+            </map>
+            <map to='#a95500'>
+              <bucket>&quot;Dark Orange (A95500)&quot;</bucket>
+            </map>
+            <map to='#aa4d8e'>
+              <bucket>&quot;Chrome Pink (AA4D8E)&quot;</bucket>
+            </map>
+            <map to='#aa7d55'>
+              <bucket>&quot;Medium Nougat (AA7D55)&quot;</bucket>
+            </map>
+            <map to='#aa7f2e'>
+              <bucket>&quot;Pearl Gold (AA7F2E)&quot;</bucket>
+            </map>
+            <map to='#ab673a'>
+              <bucket>&quot;Two-tone Gold (AB673A)&quot;</bucket>
+            </map>
+            <map to='#abadac'>
+              <bucket>&quot;Pearl Very Light Gray (ABADAC)&quot;</bucket>
+            </map>
+            <map to='#ac78ba'>
+              <bucket>&quot;Medium Lavender (AC78BA)&quot;</bucket>
+            </map>
+            <map to='#ac8247'>
+              <bucket>&quot;Reddish Gold (AC8247)&quot;</bucket>
+            </map>
+            <map to='#ad6140'>
+              <bucket>&quot;Dark Nougat (AD6140)&quot;</bucket>
+            </map>
+            <map to='#adc3c0'>
+              <bucket>&quot;Light Aqua (ADC3C0)&quot;</bucket>
+            </map>
+            <map to='#ae7a59'>
+              <bucket>&quot;Copper (AE7A59)&quot;</bucket>
+            </map>
+            <map to='#aeefec'>
+              <bucket>&quot;Trans-Light Blue (AEEFEC)&quot;</bucket>
+            </map>
+            <map to='#afb5c7'>
+              <bucket>&quot;Modulex Light Bluish Gray (AfB5C7)&quot;</bucket>
+            </map>
+            <map to='#b2b955'>
+              <bucket>&quot;HO Dark Lime (b2b955)&quot;</bucket>
+            </map>
+            <map to='#b31004'>
+              <bucket>&quot;Rust (B31004)&quot;</bucket>
+            </map>
+            <map to='#b3d7d1'>
+              <bucket>&quot;Aqua (B3D7D1)&quot;</bucket>
+            </map>
+            <map to='#b3d7d1'>
+              <bucket>&quot;HO Aqua (B3D7D1)&quot;</bucket>
+            </map>
+            <map to='#b46a00'>
+              <bucket>&quot;Pearl Copper (B46A00)&quot;</bucket>
+            </map>
+            <map to='#b48455'>
+              <bucket>&quot;Flat Dark Gold (B48455)&quot;</bucket>
+            </map>
+            <map to='#b4a774'>
+              <bucket>&quot;HO Gold (b4a774)&quot;</bucket>
+            </map>
+            <map to='#b4d2e3'>
+              <bucket>&quot;Light Blue (B4D2E3)&quot;</bucket>
+            </map>
+            <map to='#b4d4f7'>
+              <bucket>&quot;Trans-Light Royal Blue (B4D4F7)&quot;</bucket>
+            </map>
+            <map to='#b52c20'>
+              <bucket>&quot;Modulex Red (B52C20)&quot;</bucket>
+            </map>
+            <map to='#b67b50'>
+              <bucket>&quot;Fabuland Brown (B67B50)&quot;</bucket>
+            </map>
+            <map to='#bb771b'>
+              <bucket>&quot;HO Earth Orange (bb771b)&quot;</bucket>
+            </map>
+            <map to='#bba53d'>
+              <bucket>&quot;Chrome Gold (BBA53D)&quot;</bucket>
+            </map>
+            <map to='#bbe90b'>
+              <bucket>&quot;Lime (BBE90B)&quot;</bucket>
+            </map>
+            <map to='#bd7d85'>
+              <bucket>&quot;Modulex Violet (BD7D85)&quot;</bucket>
+            </map>
+            <map to='#bdc618'>
+              <bucket>&quot;Modulex Lemon (BDC618)&quot;</bucket>
+            </map>
+            <map to='#bdc6ad'>
+              <bucket>&quot;Glow In Dark Trans (BDC6AD)&quot;</bucket>
+            </map>
+            <map to='#c01111'>
+              <bucket>&quot;HO Medium Red (c01111)&quot;</bucket>
+            </map>
+            <map to='#c0f500'>
+              <bucket>&quot;Glitter Trans-Neon Green (C0F500)&quot;</bucket>
+            </map>
+            <map to='#c1dff0'>
+              <bucket>&quot;Trans-Very Lt Blue (C1DFF0)&quot;</bucket>
+            </map>
+            <map to='#c2dab8'>
+              <bucket>&quot;Light Green (C2DAB8)&quot;</bucket>
+            </map>
+            <map to='#c7d23c'>
+              <bucket>&quot;Medium Lime (C7D23C)&quot;</bucket>
+            </map>
+            <map to='#c870a0'>
+              <bucket>&quot;Dark Pink (C870A0)&quot;</bucket>
+            </map>
+            <map to='#c91a09'>
+              <bucket>&quot;Red (C91A09)&quot;</bucket>
+            </map>
+            <map to='#c91a09'>
+              <bucket>&quot;Trans-Red (C91A09)&quot;</bucket>
+            </map>
+            <map to='#c9cae2'>
+              <bucket>&quot;Light Violet (C9CAE2)&quot;</bucket>
+            </map>
+            <map to='#c9e788'>
+              <bucket>&quot;Trans-Light Bright Green (C9E788)&quot;</bucket>
+            </map>
+            <map to='#ca1f08'>
+              <bucket>&quot;Vintage Red (CA1F08)&quot;</bucket>
+            </map>
+            <map to='#ca4c0b'>
+              <bucket>&quot;Reddish Orange (CA4C0B)&quot;</bucket>
+            </map>
+            <map to='#cca373'>
+              <bucket>&quot;Warm Tan (CCA373)&quot;</bucket>
+            </map>
+            <map to='#cd6298'>
+              <bucket>&quot;Light Purple (CD6298)&quot;</bucket>
+            </map>
+            <map to='#cdc298'>
+              <bucket>&quot;HO Light Gold (cdc298)&quot;</bucket>
+            </map>
+            <map to='#ce1d9b'>
+              <bucket>&quot;Opal Trans-Dark Pink (CE1D9B)&quot;</bucket>
+            </map>
+            <map to='#cfe2f7'>
+              <bucket>&quot;Trans-Medium Blue (CFE2F7)&quot;</bucket>
+            </map>
+            <map to='#d06262'>
+              <bucket>&quot;HO Rose (d06262)&quot;</bucket>
+            </map>
+            <map to='#d09168'>
+              <bucket>&quot;Nougat (D09168)&quot;</bucket>
+            </map>
+            <map to='#d4d5c9'>
+              <bucket>&quot;Glow In Dark Opaque (D4D5C9)&quot;</bucket>
+            </map>
+            <map to='#d60026'>
+              <bucket>&quot;Pearl Red (D60026)&quot;</bucket>
+            </map>
+            <map to='#d67572'>
+              <bucket>&quot;Sand Red (D67572)&quot;</bucket>
+            </map>
+            <map to='#d9d9d9'>
+              <bucket>&quot;Glow in Dark White (D9D9D9)&quot;</bucket>
+            </map>
+            <map to='#d9e4a7'>
+              <bucket>&quot;Light Lime (D9E4A7)&quot;</bucket>
+            </map>
+            <map to='#d9e4a7'>
+              <bucket>&quot;Trans-Bright Green (D9E4A7)&quot;</bucket>
+            </map>
+            <map to='#dab000'>
+              <bucket>&quot;Trans-Neon Yellow (DAB000)&quot;</bucket>
+            </map>
+            <map to='#dbac34'>
+              <bucket>&quot;Metallic Gold (DBAC34)&quot;</bucket>
+            </map>
+            <map to='#dcbc81'>
+              <bucket>&quot;Pearl Light Gold (DCBC81)&quot;</bucket>
+            </map>
+            <map to='#dd982e'>
+              <bucket>&quot;Curry (DD982E)&quot;</bucket>
+            </map>
+            <map to='#dec69c'>
+              <bucket>&quot;Modulex Buff (DEC69C)&quot;</bucket>
+            </map>
+            <map to='#df6695'>
+              <bucket>&quot;Glitter Trans-Dark Pink (DF6695)&quot;</bucket>
+            </map>
+            <map to='#df6695'>
+              <bucket>&quot;Trans-Dark Pink (DF6695)&quot;</bucket>
+            </map>
+            <map to='#dfeea5'>
+              <bucket>&quot;Yellowish Green (DFEEA5)&quot;</bucket>
+            </map>
+            <map to='#e0e0e0'>
+              <bucket>&quot;Chrome Silver (E0E0E0)&quot;</bucket>
+            </map>
+            <map to='#e1d5ed'>
+              <bucket>&quot;Lavender (E1D5ED)&quot;</bucket>
+            </map>
+            <map to='#e4adc8'>
+              <bucket>&quot;Bright Pink (E4ADC8)&quot;</bucket>
+            </map>
+            <map to='#e4adc8'>
+              <bucket>&quot;Glitter Trans-Pink (E4ADC8)&quot;</bucket>
+            </map>
+            <map to='#e4adc8'>
+              <bucket>&quot;Trans-Pink (E4ADC8)&quot;</bucket>
+            </map>
+            <map to='#e4cd9e'>
+              <bucket>&quot;HO Tan (E4CD9E)&quot;</bucket>
+            </map>
+            <map to='#e4cd9e'>
+              <bucket>&quot;Tan (E4CD9E)&quot;</bucket>
+            </map>
+            <map to='#e6e3da'>
+              <bucket>&quot;Very Light Gray (E6E3DA)&quot;</bucket>
+            </map>
+            <map to='#e6e3e0'>
+              <bucket>&quot;Very Light Bluish Gray (E6E3E0)&quot;</bucket>
+            </map>
+            <map to='#ebd800'>
+              <bucket>&quot;Vibrant Yellow (EBD800)&quot;</bucket>
+            </map>
+            <map to='#ee5434'>
+              <bucket>&quot;Bright Reddish Orange (EE5434)&quot;</bucket>
+            </map>
+            <map to='#ef9121'>
+              <bucket>&quot;Fabuland Orange (EF9121)&quot;</bucket>
+            </map>
+            <map to='#f08f1c'>
+              <bucket>&quot;Glitter Trans-Orange (F08F1C)&quot;</bucket>
+            </map>
+            <map to='#f08f1c'>
+              <bucket>&quot;Trans-Orange (F08F1C)&quot;</bucket>
+            </map>
+            <map to='#f2705e'>
+              <bucket>&quot;Salmon (F2705E)&quot;</bucket>
+            </map>
+            <map to='#f2cd37'>
+              <bucket>&quot;Yellow (F2CD37)&quot;</bucket>
+            </map>
+            <map to='#f2f3f2'>
+              <bucket>&quot;Pearl White (F2F3F2)&quot;</bucket>
+            </map>
+            <map to='#f3c305'>
+              <bucket>&quot;Vintage Yellow (F3C305)&quot;</bucket>
+            </map>
+            <map to='#f3c988'>
+              <bucket>&quot;Light Tan (F3C988)&quot;</bucket>
+            </map>
+            <map to='#f3cf9b'>
+              <bucket>&quot;Very Light Orange (F3CF9B)&quot;</bucket>
+            </map>
+            <map to='#f45c40'>
+              <bucket>&quot;Modulex Pink Red (F45C40)&quot;</bucket>
+            </map>
+            <map to='#f47b30'>
+              <bucket>&quot;Modulex Orange (F47B30)&quot;</bucket>
+            </map>
+            <map to='#f4f4f4'>
+              <bucket>&quot;Modulex White (F4F4F4)&quot;</bucket>
+            </map>
+            <map to='#f5cd2f'>
+              <bucket>&quot;Opal Trans-Yellow (F5CD2F)&quot;</bucket>
+            </map>
+            <map to='#f5cd2f'>
+              <bucket>&quot;Trans-Yellow (F5CD2F)&quot;</bucket>
+            </map>
+            <map to='#f5fab7'>
+              <bucket>&quot;HO Light Yellow (f5fab7)&quot;</bucket>
+            </map>
+            <map to='#f6d7b3'>
+              <bucket>&quot;Light Nougat (F6D7B3)&quot;</bucket>
+            </map>
+            <map to='#f785b1'>
+              <bucket>&quot;Medium Dark Pink (F785B1)&quot;</bucket>
+            </map>
+            <map to='#f785b1'>
+              <bucket>&quot;Modulex Pink (F785B1)&quot;</bucket>
+            </map>
+            <map to='#f7ad63'>
+              <bucket>&quot;Modulex Light Orange (F7AD63)&quot;</bucket>
+            </map>
+            <map to='#f8bb3d'>
+              <bucket>&quot;Bright Light Orange (F8BB3D)&quot;</bucket>
+            </map>
+            <map to='#f8f184'>
+              <bucket>&quot;Trans-Neon Green (F8F184)&quot;</bucket>
+            </map>
+            <map to='#f9ba61'>
+              <bucket>&quot;Light Orange (F9BA61)&quot;</bucket>
+            </map>
+            <map to='#f9f1c7'>
+              <bucket>&quot;HO Light Tan (f9f1c7)&quot;</bucket>
+            </map>
+            <map to='#fa9c1c'>
+              <bucket>&quot;Earth Orange (FA9C1C)&quot;</bucket>
+            </map>
+            <map to='#fbe696'>
+              <bucket>&quot;Light Yellow (FBE696)&quot;</bucket>
+            </map>
+            <map to='#fbe890'>
+              <bucket>&quot;Trans-Fire Yellow (FBE890)&quot;</bucket>
+            </map>
+            <map to='#fc97ac'>
+              <bucket>&quot;Pink (FC97AC)&quot;</bucket>
+            </map>
+            <map to='#fcb76d'>
+              <bucket>&quot;Trans-Flame Yellowish Orange (FCB76D)&quot;</bucket>
+            </map>
+            <map to='#fcfcfc'>
+              <bucket>&quot;Opal Trans-Clear (FCFCFC)&quot;</bucket>
+            </map>
+            <map to='#fcfcfc'>
+              <bucket>&quot;Trans-Clear (FCFCFC)&quot;</bucket>
+            </map>
+            <map to='#fe78b0'>
+              <bucket>&quot;Clikits Pink (FE78B0)&quot;</bucket>
+            </map>
+            <map to='#fe8a18'>
+              <bucket>&quot;Orange (FE8A18)&quot;</bucket>
+            </map>
+            <map to='#febabd'>
+              <bucket>&quot;Light Salmon (FEBABD)&quot;</bucket>
+            </map>
+            <map to='#fecccf'>
+              <bucket>&quot;Light Pink (FECCCF)&quot;</bucket>
+            </map>
+            <map to='#fed557'>
+              <bucket>&quot;Modulex Ochre Yellow (FED557)&quot;</bucket>
+            </map>
+            <map to='#ff0040'>
+              <bucket>&quot;Trans-Neon Red (FF0040)&quot;</bucket>
+            </map>
+            <map to='#ff698f'>
+              <bucket>&quot;Coral (FF698F)&quot;</bucket>
+            </map>
+            <map to='#ff800d'>
+              <bucket>&quot;Trans-Neon Orange (FF800D)&quot;</bucket>
+            </map>
+            <map to='#ff8014'>
+              <bucket>&quot;Fabuland Red (FF8014)&quot;</bucket>
+            </map>
+            <map to='#ff879c'>
+              <bucket>&quot;Duplo Pink (FF879C)&quot;</bucket>
+            </map>
+            <map to='#ffa70b'>
+              <bucket>&quot;Medium Orange (FFA70B)&quot;</bucket>
+            </map>
+            <map to='#ffcb78'>
+              <bucket>&quot;Warm Yellowish Orange (FFCB78)&quot;</bucket>
+            </map>
+            <map to='#ffcf0b'>
+              <bucket>&quot;Clikits Yellow (FFCF0B)&quot;</bucket>
+            </map>
+            <map to='#ffe371'>
+              <bucket>&quot;Modulex Light Yellow (FFE371)&quot;</bucket>
+            </map>
+            <map to='#fff03a'>
+              <bucket>&quot;Bright Light Yellow (FFF03A)&quot;</bucket>
+            </map>
+            <map to='#fff230'>
+              <bucket>&quot;Duplo Lime (FFF230)&quot;</bucket>
+            </map>
+            <map to='#ffffff'>
+              <bucket>&quot;Glitter Trans-Clear (FFFFFF)&quot;</bucket>
+            </map>
+            <map to='#ffffff'>
+              <bucket>&quot;Milky White (FFFFFF)&quot;</bucket>
+            </map>
+            <map to='#ffffff'>
+              <bucket>&quot;Modulex Clear (FFFFFF)&quot;</bucket>
+            </map>
+            <map to='#ffffff'>
+              <bucket>&quot;White (FFFFFF)&quot;</bucket>
+            </map>
+          </encoding>
+        </style-rule>
+      </style>
+      <semantic-values>
+        <semantic-value key='[Country].[Name]' value='&quot;New Zealand&quot;' />
+      </semantic-values>
+      <_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+        <objects>
+          <object caption='colors_over_years.csv' id='colors_over_years.csv_872BE662CD494238896C6DBA65F8B014'>
+            <properties context=''>
+              <relation connection='textscan.0bnsrzp0n0vndz17ypb6m0ek49q0' name='colors_over_years.csv' table='[colors_over_years#csv]' type='table'>
+                <columns character-set='UTF-8' header='yes' locale='en_US' separator=','>
+                  <column datatype='integer' name='year' ordinal='0' />
+                  <column datatype='string' name='color_name' ordinal='1' />
+                  <column datatype='string' name='rgb' ordinal='2' />
+                  <column datatype='integer' name='quantity' ordinal='3' />
+                  <column datatype='string' name='color_info' ordinal='4' />
+                </columns>
+              </relation>
+            </properties>
+          </object>
+        </objects>
+      </_.fcp.ObjectModelEncapsulateLegacy.true...object-graph>
+    </datasource>
+  </datasources>
+  <worksheets>
+    <worksheet name='Sheet 1'>
+      <layout-options>
+        <title>
+          <formatted-text>
+            <run>Colours Diversity of Lego Parts Over Time</run>
+          </formatted-text>
+        </title>
+      </layout-options>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='colors_over_years' name='federated.0jkmpin0p1vt3213j12h402n7u9j' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0jkmpin0p1vt3213j12h402n7u9j'>
+            <column datatype='string' name='[color_info]' role='dimension' type='nominal' />
+            <column-instance column='[color_info]' derivation='None' name='[none:color_info:nk]' pivot='key' type='nominal' />
+            <column-instance column='[year]' derivation='None' name='[none:year:qk]' pivot='key' type='quantitative' />
+            <column caption='Quantity' datatype='integer' name='[quantity]' role='measure' type='quantitative' />
+            <column-instance column='[quantity]' derivation='Sum' name='[sum:quantity:qk]' pivot='key' type='quantitative' />
+            <column caption='Year' datatype='integer' name='[year]' role='dimension' type='quantitative' />
+          </datasource-dependencies>
+          <alphabetic-sort column='[federated.0jkmpin0p1vt3213j12h402n7u9j].[none:color_info:nk]' direction='ASC' />
+          <aggregation value='true' />
+        </view>
+        <style>
+          <style-rule element='annotation'>
+            <format attr='body-type' id='annotation_0' value='none' />
+            <format attr='body-type' id='annotation_1' value='none' />
+            <format attr='body-type' id='annotation_2' value='none' />
+            <format attr='body-type' id='annotation_3' value='none' />
+          </style-rule>
+        </style>
+        <panes>
+          <pane id='9' selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Area' />
+            <encodings>
+              <color column='[federated.0jkmpin0p1vt3213j12h402n7u9j].[none:color_info:nk]' />
+            </encodings>
+          </pane>
+        </panes>
+        <rows>[federated.0jkmpin0p1vt3213j12h402n7u9j].[sum:quantity:qk]</rows>
+        <cols>[federated.0jkmpin0p1vt3213j12h402n7u9j].[none:year:qk]</cols>
+        <annotations>
+          <annotation class='point' id='0' mark-position='1' pullback='0' text-width='199'>
+            <formatted-text>
+              <run fontcolor='#787878' fontname='Tableau Light' fontsize='8'>Æ </run>
+              <run bold='true' fontname='Tableau Light' fontsize='8'><![CDATA[<[federated.0jkmpin0p1vt3213j12h402n7u9j].[none:color_info:nk]>]]></run>
+              <run>Æ&#10;</run>
+              <run fontcolor='#787878' fontname='Tableau Light' fontsize='8'>Æ </run>
+              <run bold='true' fontname='Tableau Light' fontsize='8'><![CDATA[<[federated.0jkmpin0p1vt3213j12h402n7u9j].[none:year:qk]>]]></run>
+              <run>Æ&#10;</run>
+              <run fontcolor='#787878' fontname='Tableau Light' fontsize='8'>Quantity:  </run>
+              <run bold='true' fontname='Tableau Light' fontsize='8'><![CDATA[<[federated.0jkmpin0p1vt3213j12h402n7u9j].[sum:quantity:qk]> ]]></run>
+            </formatted-text>
+            <point>
+              <visual-coordinate class='mark'>
+                <tuple-reference>
+                  <tuple-descriptor>
+                    <pane-descriptor>
+                      <x-fields>
+                        <field>[federated.0jkmpin0p1vt3213j12h402n7u9j].[none:year:qk]</field>
+                      </x-fields>
+                      <y-fields>
+                        <field>[federated.0jkmpin0p1vt3213j12h402n7u9j].[sum:quantity:qk]</field>
+                      </y-fields>
+                    </pane-descriptor>
+                    <columns>
+                      <field>[federated.0jkmpin0p1vt3213j12h402n7u9j].[none:color_info:nk]</field>
+                      <field>[federated.0jkmpin0p1vt3213j12h402n7u9j].[none:year:qk]</field>
+                      <field>[federated.0jkmpin0p1vt3213j12h402n7u9j].[sum:quantity:qk]</field>
+                    </columns>
+                  </tuple-descriptor>
+                  <tuple>
+                    <value>&quot;Black (05131D)&quot;</value>
+                    <value>2022</value>
+                    <value>45658</value>
+                  </tuple>
+                </tuple-reference>
+              </visual-coordinate>
+            </point>
+            <body x='-122' y='-29' />
+          </annotation>
+          <annotation class='point' id='1' mark-position='1' pullback='0' text-width='177'>
+            <formatted-text>
+              <run fontcolor='#787878' fontname='Tableau Light' fontsize='8'>Æ </run>
+              <run bold='true' fontname='Tableau Light' fontsize='8'><![CDATA[<[federated.0jkmpin0p1vt3213j12h402n7u9j].[none:color_info:nk]>]]></run>
+              <run>Æ&#10;</run>
+              <run fontcolor='#787878' fontname='Tableau Light' fontsize='8'>Æ </run>
+              <run bold='true' fontname='Tableau Light' fontsize='8'><![CDATA[<[federated.0jkmpin0p1vt3213j12h402n7u9j].[none:year:qk]>]]></run>
+              <run>Æ&#10;</run>
+              <run fontcolor='#787878' fontname='Tableau Light' fontsize='8'>Quantity:  </run>
+              <run bold='true' fontname='Tableau Light' fontsize='8'><![CDATA[<[federated.0jkmpin0p1vt3213j12h402n7u9j].[sum:quantity:qk]> ]]></run>
+            </formatted-text>
+            <point>
+              <visual-coordinate class='mark'>
+                <tuple-reference>
+                  <tuple-descriptor>
+                    <pane-descriptor>
+                      <x-fields>
+                        <field>[federated.0jkmpin0p1vt3213j12h402n7u9j].[none:year:qk]</field>
+                      </x-fields>
+                      <y-fields>
+                        <field>[federated.0jkmpin0p1vt3213j12h402n7u9j].[sum:quantity:qk]</field>
+                      </y-fields>
+                    </pane-descriptor>
+                    <columns>
+                      <field>[federated.0jkmpin0p1vt3213j12h402n7u9j].[none:color_info:nk]</field>
+                      <field>[federated.0jkmpin0p1vt3213j12h402n7u9j].[none:year:qk]</field>
+                      <field>[federated.0jkmpin0p1vt3213j12h402n7u9j].[sum:quantity:qk]</field>
+                    </columns>
+                  </tuple-descriptor>
+                  <tuple>
+                    <value>&quot;Dark Bluish Gray (6C6E68)&quot;</value>
+                    <value>2022</value>
+                    <value>27750</value>
+                  </tuple>
+                </tuple-reference>
+              </visual-coordinate>
+            </point>
+            <body x='-145' y='-63' />
+          </annotation>
+          <annotation class='point' id='2' mark-position='1' pullback='0' text-width='180'>
+            <formatted-text>
+              <run fontcolor='#787878' fontname='Tableau Light' fontsize='8'>Æ </run>
+              <run bold='true' fontname='Tableau Light' fontsize='8'><![CDATA[<[federated.0jkmpin0p1vt3213j12h402n7u9j].[none:color_info:nk]>]]></run>
+              <run>Æ&#10;</run>
+              <run fontcolor='#787878' fontname='Tableau Light' fontsize='8'>Æ </run>
+              <run bold='true' fontname='Tableau Light' fontsize='8'><![CDATA[<[federated.0jkmpin0p1vt3213j12h402n7u9j].[none:year:qk]>]]></run>
+              <run>Æ&#10;</run>
+              <run fontcolor='#787878' fontname='Tableau Light' fontsize='8'>Quantity:  </run>
+              <run bold='true' fontname='Tableau Light' fontsize='8'><![CDATA[<[federated.0jkmpin0p1vt3213j12h402n7u9j].[sum:quantity:qk]> ]]></run>
+            </formatted-text>
+            <point>
+              <visual-coordinate class='mark'>
+                <tuple-reference>
+                  <tuple-descriptor>
+                    <pane-descriptor>
+                      <x-fields>
+                        <field>[federated.0jkmpin0p1vt3213j12h402n7u9j].[none:year:qk]</field>
+                      </x-fields>
+                      <y-fields>
+                        <field>[federated.0jkmpin0p1vt3213j12h402n7u9j].[sum:quantity:qk]</field>
+                      </y-fields>
+                    </pane-descriptor>
+                    <columns>
+                      <field>[federated.0jkmpin0p1vt3213j12h402n7u9j].[none:color_info:nk]</field>
+                      <field>[federated.0jkmpin0p1vt3213j12h402n7u9j].[none:year:qk]</field>
+                      <field>[federated.0jkmpin0p1vt3213j12h402n7u9j].[sum:quantity:qk]</field>
+                    </columns>
+                  </tuple-descriptor>
+                  <tuple>
+                    <value>&quot;White (FFFFFF)&quot;</value>
+                    <value>2022</value>
+                    <value>29426</value>
+                  </tuple>
+                </tuple-reference>
+              </visual-coordinate>
+            </point>
+            <body x='-442' y='-194' />
+          </annotation>
+          <annotation class='point' id='3' mark-position='1' pullback='12' text-width='180'>
+            <formatted-text>
+              <run fontcolor='#787878' fontname='Tableau Light' fontsize='8'>Æ </run>
+              <run bold='true' fontname='Tableau Light' fontsize='8'><![CDATA[<[federated.0jkmpin0p1vt3213j12h402n7u9j].[none:color_info:nk]>]]></run>
+              <run>Æ&#10;</run>
+              <run fontcolor='#787878' fontname='Tableau Light' fontsize='8'>Æ </run>
+              <run bold='true' fontname='Tableau Light' fontsize='8'><![CDATA[<[federated.0jkmpin0p1vt3213j12h402n7u9j].[none:year:qk]>]]></run>
+              <run>Æ&#10;</run>
+              <run fontcolor='#787878' fontname='Tableau Light' fontsize='8'>Quantity:  </run>
+              <run bold='true' fontname='Tableau Light' fontsize='8'><![CDATA[<[federated.0jkmpin0p1vt3213j12h402n7u9j].[sum:quantity:qk]> ]]></run>
+            </formatted-text>
+            <point>
+              <visual-coordinate class='mark'>
+                <tuple-reference>
+                  <tuple-descriptor>
+                    <pane-descriptor>
+                      <x-fields>
+                        <field>[federated.0jkmpin0p1vt3213j12h402n7u9j].[none:year:qk]</field>
+                      </x-fields>
+                      <y-fields>
+                        <field>[federated.0jkmpin0p1vt3213j12h402n7u9j].[sum:quantity:qk]</field>
+                      </y-fields>
+                    </pane-descriptor>
+                    <columns>
+                      <field>[federated.0jkmpin0p1vt3213j12h402n7u9j].[none:color_info:nk]</field>
+                      <field>[federated.0jkmpin0p1vt3213j12h402n7u9j].[none:year:qk]</field>
+                      <field>[federated.0jkmpin0p1vt3213j12h402n7u9j].[sum:quantity:qk]</field>
+                    </columns>
+                  </tuple-descriptor>
+                  <tuple>
+                    <value>&quot;Light Bluish Gray (A0A5A9)&quot;</value>
+                    <value>2022</value>
+                    <value>33140</value>
+                  </tuple>
+                </tuple-reference>
+              </visual-coordinate>
+            </point>
+            <body x='-233' y='-56' />
+          </annotation>
+        </annotations>
+      </table>
+      <simple-id uuid='{D85FB31A-1FEB-4827-BAA2-4D321D6D79FB}' />
+    </worksheet>
+    <worksheet name='Sheet 2'>
+      <table>
+        <view>
+          <datasources>
+            <datasource caption='colors_over_years' name='federated.0jkmpin0p1vt3213j12h402n7u9j' />
+          </datasources>
+          <datasource-dependencies datasource='federated.0jkmpin0p1vt3213j12h402n7u9j'>
+            <column caption='Baseline Offset' datatype='real' name='[Calculation_751819708372803584]' role='measure' type='quantitative'>
+              <calculation class='tableau' formula='WINDOW_SUM(SUM([quantity])) / 2'>
+                <table-calc ordering-type='Rows' />
+              </calculation>
+            </column>
+            <column caption='Quantity' datatype='integer' name='[quantity]' role='measure' type='quantitative' />
+            <column-instance column='[Calculation_751819708372803584]' derivation='User' name='[usr:Calculation_751819708372803584:qk]' pivot='key' type='quantitative'>
+              <table-calc ordering-type='Rows' />
+            </column-instance>
+          </datasource-dependencies>
+          <aggregation value='true' />
+        </view>
+        <style />
+        <panes>
+          <pane selection-relaxation-option='selection-relaxation-allow'>
+            <view>
+              <breakdown value='auto' />
+            </view>
+            <mark class='Automatic' />
+            <encodings>
+              <text column='[federated.0jkmpin0p1vt3213j12h402n7u9j].[usr:Calculation_751819708372803584:qk]' />
+            </encodings>
+            <style>
+              <style-rule element='mark'>
+                <format attr='mark-labels-show' value='true' />
+              </style-rule>
+            </style>
+          </pane>
+        </panes>
+        <rows />
+        <cols />
+      </table>
+      <simple-id uuid='{A872D0F2-D9AD-49BA-8501-D3960B2832F1}' />
+    </worksheet>
+  </worksheets>
+  <windows saved-dpi-scale-factor='1.25' source-height='37'>
+    <window class='worksheet' maximized='true' name='Sheet 1'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+        <edge name='right'>
+          <strip size='160'>
+            <card pane-specification-id='9' param='[federated.0jkmpin0p1vt3213j12h402n7u9j].[none:color_info:nk]' type='color' />
+          </strip>
+        </edge>
+      </cards>
+      <viewpoint>
+        <highlight>
+          <color-one-way>
+            <field>[federated.0jkmpin0p1vt3213j12h402n7u9j].[none:color_info:nk]</field>
+            <field>[federated.0jkmpin0p1vt3213j12h402n7u9j].[none:year:qk]</field>
+          </color-one-way>
+        </highlight>
+      </viewpoint>
+      <simple-id uuid='{81F60DE1-1B1D-47F0-B04A-E71D9CF227E7}' />
+    </window>
+    <window class='worksheet' name='Sheet 2'>
+      <cards>
+        <edge name='left'>
+          <strip size='160'>
+            <card type='pages' />
+            <card type='filters' />
+            <card type='marks' />
+          </strip>
+        </edge>
+        <edge name='top'>
+          <strip size='2147483647'>
+            <card type='columns' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='rows' />
+          </strip>
+          <strip size='2147483647'>
+            <card type='title' />
+          </strip>
+        </edge>
+      </cards>
+      <simple-id uuid='{D1E1EE66-3019-425F-A0A7-C7E90087C00B}' />
+    </window>
+  </windows>
+  <thumbnails>
+    <thumbnail height='192' name='Sheet 1' width='192'>
+      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
+      4ah7AMVE8/8BhTcuje8AM/UAAAAASUVORK5CYII=
+    </thumbnail>
+    <thumbnail height='25' name='Sheet 2' width='84'>
+      iVBORw0KGgoAAAANSUhEUgAAAFQAAAAZCAYAAACvrQlzAAAACXBIWXMAABJ0AAASdAHeZh94
+      AAAEY0lEQVRoge2WT0gbexDHP0+TiAoWpNFbEE+CtRUiQSyUBkSCip4VWyy06UXIJYdCBVPw
+      UHKoBSn0ZujBPxEURE96UC+iKHiySyFtWSiEQJuyKWnYrTs9iKG+JBp9+3zw2A/sZeY7sztf
+      fju7f4mIYGMZFf/1A/zfsA21GNtQi7ENtRjbUIuxDbUY21CLsQ21GNtQi7ENtRjbUIuxDbUY
+      21CLcfyT4g8fPhCJRLh//z7BYPBC/cePH3nx4gWKogDQ0tLCxMQEzc3NADx79oyNjY2itcFg
+      kGAwWFJzmi9GKpVidHSUVCp1Jt7d3c3Lly8B0HWdd+/eMTs7i6Zp1NXVMTw8zMOHD3G5XGXP
+      fSVDM5kMr1+/5uDggIaGhrJqPn/+TDgc5sGDB/T39wOwurpKOBzm1atXNDU15Yf7k58/fzI+
+      Ps6dO3cACjR/zxcjmUzS2trK8vIyVVVVBXnTNHnz5g2JRIJYLIbH40FVVaLRKJlMhlAoREVF
+      RVlzX+mVX11dpa2tjcXFRTo6OsqqOTw8pL29ncHBQZxOJ06nk8HBQdrb2zk8PCxZd3R0BMDt
+      27evlIeTE3rjxo2iZsLJAVEUhbGxMTweDwAej4exsTEURSGTyQDlzX2lEzo0NHTpmpqaGnK5
+      XEE8l8tRU1NTtObXr1/E43EGBgaorq4uqrkoDyer5tatWyXzDocDp9OJrutn4rqu43Q6cThO
+      bCpn7mv7KHV2dpJOp4nH4xiGgWEYxONx0uk0nZ2dRWuOjo4wDAOfz1ey70V5AFVVmZycpKOj
+      A5/PR19fH4uLi3kDa2tr6e3tZXp6GlVV8zXT09P09vZSW1tb9pzXZqimaRiGQWNjYz7W2NiI
+      YRhomlagVxSFt2/fEolESp4+RVHOzZ8yOTnJ/v4++/v77O3tsba2RltbG48ePSKVSmGaJslk
+      Erfbne9VXV2N2+0mmUximmbZc16bobFYjEAggN/vz+9Qv99PIBAgFoud0ZqmydLSEt3d3dTV
+      1RXtd6oplb+I+vr6/E5NJBLs7u4SDodxu90AuN1uwuEwu7u7JBKJsvtem6G5XC6/i/7E4XAU
+      7FZVVVFVlXv37pXsd6q5CF3XyWazBfFv374hIjgcDnRdR0SorKw8o6msrERECnbreVyboT09
+      PczMzLC9vY1pmpimyfb2NjMzM/T09JzRrqys0NXVxc2bN0v2O9VcxPfv33n8+DELCwtomoZp
+      mrx//55IJMLdu3epr6+nubkZl8vF1NQU6XQagHQ6zdTUFC6XK/+fXBZySX78+CGjo6Pi9XqL
+      Xuvr6yIisrm5KUNDQ/L161cRETk+PpadnR0ZGRkRn88nPp9PRkZGZGdnR46Pj/P9P336JE+e
+      PJFUKlXyGc7TZLNZefr0qczPz+djX758kefPn0tXV5d4vV4JBAIyNzd35r6apkk0GhW/3y9e
+      r1f8fr9Eo1HRNO1Sc1/a0HLIZrMSCoVka2vr32h/LltbWxIKhSSbzV77vUVEfgPox+TKWpaS
+      kgAAAABJRU5ErkJggg==
+    </thumbnail>
+  </thumbnails>
+</workbook>
